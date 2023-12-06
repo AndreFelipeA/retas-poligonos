@@ -1,0 +1,17 @@
+.center {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    height: 100%;
+}
+
+
+.canvas {
+    background-color: #820AD1;
+}
+
+.input {
+    position: absolute;
+    border:none;
+    text-align: center;
+}
